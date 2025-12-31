@@ -15,3 +15,5 @@ Built a Python calculator from scratch with a GUI and keyboard input, handling a
 3. Open a terminal or command prompt
 4. Navigate to the folder containing `calculator.py`
 5. Run the calculator with:
+```bash
+python calculator.py
